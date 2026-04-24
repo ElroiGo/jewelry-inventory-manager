@@ -46,23 +46,21 @@ Admin-only actions are protected behind authentication.
 
 ## Screenshots
 
-Add screenshots here from:
-- Inventory list:
-  <img width="615" height="402" alt="image" src="https://github.com/user-attachments/assets/17419da1-4c69-4023-a2ad-bebcb5ce58b0" />
-- Add item form
-- Edit item page
-- Search / filter results
-- CSV export result
-- HTTPS working page
 
 ## Setup
 
-1. Install Apache, PHP, and MariaDB on Ubuntu.
-2. Clone or download the project files into the web root directory.
-3. Create the database and import the SQL schema.
-4. Update the database configuration file with your local environment values.
-5. Start Apache and MariaDB services.
-6. Open the application in your browser.
+1. Create an Ubuntu virtual machine in Oracle VirtualBox.
+2. Allocate resources similar to the original lab setup, such as 4 GB RAM, 2 CPUs, and a dynamically allocated virtual disk.
+3. Install Ubuntu and verify that the VM is running correctly.
+4. Install and start Apache, then confirm that the default Apache page is being served.
+5. Install PHP and confirm that Apache can process PHP files.
+6. Install MariaDB, secure the installation, and create a dedicated database and application user.
+7. Place the project files in the Apache web root directory.
+8. Import the project database schema and sample data into MariaDB.
+9. Update the application database configuration file with your own local database values.
+10. Verify that the PHP application can connect to MariaDB and retrieve data correctly.
+11. Test the main application flows, including login, CRUD operations, filtering, CSV export, and image upload.
+12. Optionally configure HTTPS with a self-signed certificate for local secure access.
 
 ## Security Notes
 
