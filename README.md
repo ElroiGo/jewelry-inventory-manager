@@ -49,15 +49,15 @@ Admin-only actions are protected behind authentication.
 <table>
   <tr>
     <td align="center"><strong>DB data test</strong></td>
-    <td align="center"><strong>Inventory test List</strong></td>
+    <td align="center"><strong>Inventory test list</strong></td>
   </tr>
   <tr>
     <td><img src="./screenshots/DB-SampleData.png" alt="DB data test" width="400"></td>
-    <td><img src="./screenshots/List-DBdata.png.png" alt="Inventory test List" width="400"></td>
+    <td><img src="./screenshots/List-DBdata.png" alt="Inventory test list" width="400"></td>
   </tr>
 
   <tr>
-    <td align="center"><strong>Admin login page</strong></td>
+    <td align="center"><strong>Admin login</strong></td>
     <td align="center"><strong>Add Item</strong></td>
   </tr>
   <tr>
