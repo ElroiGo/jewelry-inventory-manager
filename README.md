@@ -45,34 +45,33 @@ The setup includes basic hardening steps such as configuring HTTPS with a self-s
 Admin-only actions are protected behind authentication.
 
 ## Screenshots
-## Screenshots
 
 <table>
   <tr>
-    <td align="center"><strong>Login Form</strong></td>
+    <td align="center"><strong>DB data test</strong></td>
+    <td align="center"><strong>Inventory test List</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/DB-SampleData.png" alt="DB data test" width="400"></td>
+    <td><img src="./screenshots/List-DBdata.png.png" alt="Inventory test List" width="400"></td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>Admin login page</strong></td>
+    <td align="center"><strong>Add Item</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/Login-formUI.png" alt="Admin login" width="400"></td>
+    <td><img src="./screenshots/Add-overview.png" alt="Add Item" width="400"></td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>Edit Item</strong></td>
     <td align="center"><strong>Inventory List</strong></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/Login-formUI.png" alt="Login Form" width="400"></td>
-    <td><img src="./screenshots/List-overview.png" alt="Inventory List" width="400"></td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>Add Item</strong></td>
-    <td align="center"><strong>Edit Item</strong></td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/Add-overview.png" alt="Add Item" width="400"></td>
     <td><img src="./screenshots/Edit-overview.png" alt="Edit Item" width="400"></td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>Filtering</strong></td>
-    <td align="center"><strong>CSV Export</strong></td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/Filtering.png" alt="Filtering" width="400"></td>
-    <td><img src="./screenshots/CSV-Export.png" alt="CSV Export" width="400"></td>
+    <td><img src="./screenshots/List-overview.png" alt="Inventory List" width="400"></td>
   </tr>
 </table>
 
