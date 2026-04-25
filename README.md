@@ -45,7 +45,7 @@ The setup includes basic hardening steps such as configuring HTTPS with a self-s
 Admin-only actions are protected behind authentication.
 
 ## Screenshots
-
+(screenshots/DB - Data sample.png)[DB setup and sample data]!
 
 ## Setup
 
