@@ -86,8 +86,7 @@ Admin-only actions are protected behind authentication.
 
 ## Security Notes
 
-Sensitive values such as passwords, credentials, and local-only configuration details are not included in this repository.  
-Use your own local configuration when testing the project.
+Sensitive information, such as database passwords, API credentials, and environment-specific configuration details, must never be committed to version control. In a production environment, ensure these values are stored securely using environment variables or a dedicated secret management service (e.g., HashiCorp Vault, AWS Secrets Manager, or GitHub Secrets).
 
 ## What I Learned
 
