@@ -100,6 +100,10 @@ This project reinforced my experience in:
 - Applying security-minded practices in a local lab environment.
 - Structuring a full-stack project in a way that demonstrates production-style thinking.
 
-## Status
+## Why This Project
 
-Completed and documented as a portfolio project.
+I chose to build this project to explore new concepts within the field I am currently learning and working in, while challenging myself to design, troubleshoot, and solve problems creatively to reach the best possible outcome.
+
+My purpose was not to specialize in full-stack development or focus on a single programming language; rather, it was to strengthen my understanding of the underlying system architecture. This included deep-diving into Linux, database connectivity, Apache, and other core infrastructure components to better understand how these technologies integrate to form a functional environment.
+
+From a practical perspective, a web-based inventory management system addresses a fundamental, real-world need for entrepreneurs and small business owners starting their journey. By building this solution, I aimed to demonstrate the value a technical professional delivers by creating systems that are both highly functional and relevant in real-world environments.
