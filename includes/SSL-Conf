@@ -1,0 +1,17 @@
+SSL Conf:
+<VirtualHost *:443>
+    ServerName 127.0.0.1
+    DocumentRoot /var/www/html
+
+    SSLEngine on
+    SSLCertificateFile    /etc/ssl/certs/jewelry_lamp.crt
+    SSLCertificateKeyFile /etc/ssl/private/jewelry_lamp.key
+
+    <Directory /var/www/html>
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
