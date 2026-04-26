@@ -70,7 +70,7 @@ Admin-only actions are protected behind authentication.
   </tr>
   <tr>
     <td><img src="./screenshots/Edit-overview.png" alt="Edit Item" width="400"></td>
-    <td><img src="./screenshots/List-overview.png" alt="Inventory List" width="400"></td>
+    <td><img src="./screenshots/Inventory-list.png" alt="Inventory List" width="400"></td>
   </tr>
 </table>
 
