@@ -51,7 +51,7 @@ Admin-only actions are protected behind authentication.
     <td align="center"><strong>Inventory test list</strong></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/DB-SampleData.png" alt="DB data test" width="400"></td>
+    <td><img src="./screenshots/DB-sampledata.png" alt="DB data test" width="400"></td>
     <td><img src="./screenshots/List-DBdata.png" alt="Inventory test list" width="400"></td>
   </tr>
 
