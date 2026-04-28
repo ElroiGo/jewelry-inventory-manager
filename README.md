@@ -52,7 +52,7 @@ Admin-only actions are protected behind authentication.
   </tr>
   <tr>
     <td><img src="./screenshots/DB-sampledata.png" alt="DB data test" width="400"></td>
-    <td><img src="./screenshots/List-DBdata.png" alt="Inventory test list" width="400"></td>
+    <td><img src="./screenshots/List-read.png" alt="Inventory test list" width="400"></td>
   </tr>
 
   <tr>
@@ -60,8 +60,8 @@ Admin-only actions are protected behind authentication.
     <td align="center"><strong>Add Item</strong></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/Login-formUI.png" alt="Admin login" width="400"></td>
-    <td><img src="./screenshots/Add-overview.png" alt="Add Item" width="400"></td>
+    <td><img src="./screenshots/LoginUI.png" alt="Admin login" width="400"></td>
+    <td><img src="./screenshots/New-Item.png" alt="Add Item" width="400"></td>
   </tr>
 
   <tr>
@@ -69,8 +69,8 @@ Admin-only actions are protected behind authentication.
     <td align="center"><strong>Inventory List</strong></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/Edit-overview.png" alt="Edit Item" width="400"></td>
-    <td><img src="./screenshots/Inventory-list.png" alt="Inventory List" width="400"></td>
+    <td><img src="./screenshots/Edit-Item.png" alt="Edit Item" width="400"></td>
+    <td><img src="./screenshots/Final-Inventory.png" alt="Inventory List" width="400"></td>
   </tr>
 </table>
 
